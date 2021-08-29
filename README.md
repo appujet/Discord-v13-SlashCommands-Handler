@@ -1,3 +1,4 @@
+## If You Need Any Support Join Support Server
 ## 💌 Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
 [Support Server](https://discord.gg/gfcv94hDhv)
