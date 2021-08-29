@@ -1,6 +1,6 @@
 ## 💌 Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
-[Support Server](https://discord.gg/gfcv94hDhv) - Ali's Support Server Invite
+[Support Server](https://discord.gg/gfcv94hDhv)
 :----:
 
 ## 👥 TEAMS ##
