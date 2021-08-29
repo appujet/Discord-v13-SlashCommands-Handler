@@ -2,7 +2,7 @@
 [![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
 [Support Server](https://discord.gg/gfcv94hDhv)
 :----:
-
+### Special thanks to Venom
 ## 👥 TEAMS ##
 <div align="left">
 <table>
