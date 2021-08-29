@@ -5,6 +5,9 @@
   </p>
   <br />
   <p>
+## 📎 Requirement
+* [Nodejs](https://nodejs.org/en/)-v16 
+* [Discord.js](https://github.com/discordjs/discord.js/)-v13
 
 ## If You Need Any Support Join Support Server
 ## 💌 Support Server
