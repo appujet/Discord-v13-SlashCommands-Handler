@@ -1,9 +1,13 @@
 const { MessageEmbed } = require("discord.js");
+const pre= require("../Detabase/prefix.js");
 
 module.exports = async (client, message) => {
+    let prefix = client.prefix;
+    const ress =  await pre.findOne({guildid: message.guild.id})
+    if(ress && ress.prefix)prefix = ress.prefix;
+   
     if(!message.guild || message.author.bot) return;
     
-    let prefix = client.prefix;
     const Mention = new RegExp(`^<@!?${client.user.id}> `);
     prefix = message.content.match(Mention) ? message.content.match(Mention)[0] : prefix;
 
